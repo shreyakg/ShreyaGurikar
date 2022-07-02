@@ -76,6 +76,7 @@
     width: auto;
     height: 300px;
     padding: 2%;
+    overflow: hidden;
 }
 .lastlinksection{
     color: #eaeded;
